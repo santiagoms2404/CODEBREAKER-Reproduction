@@ -1,0 +1,4 @@
+bandit
+google-generativeai
+requests
+python-dotenv
