@@ -58,7 +58,7 @@ cd CodeBreaker-Reproduction
 ```
 
 ### Project Structure
-
+```text
 CodeBreaker-Reproduction/
 ├── .venv/                  			# Python virtual environment
 ├── data/
