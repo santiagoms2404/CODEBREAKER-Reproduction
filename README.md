@@ -18,8 +18,9 @@ Modern static analysis tools (SAST) like **Bandit** rely on pattern matching to 
 
 ### Key Contributions
 
-1. **Attack Reproduction:** A fully functional Python pipeline that takes a vulnerable code snippet, uses LLM to mask it, and proves it bypasses the Bandit security scanner.
+1. **Attack Reproduction:** This repo. A fully functional Python pipeline that takes a vulnerable code snippet, uses LLM to mask it, and proves it bypasses the Bandit security scanner.
 2. **Defense Proposal:** A conceptual framework for a next-generation defense tool designed to detect these semantic-preserving transformations using "AI vs. AI" anomaly detection.
+3. [**Detection Tool:**](https://github.com/DarkVex9/CODEBREAKER-Detection) A minimal defense tool implimenting our proposed framework, using "AI vs. AI" anomaly detection.
 
 ---
 
